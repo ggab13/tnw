@@ -14,7 +14,12 @@ nav {
 }
 
 .nav-links>li {
+    
     display: inline;
+
+}
+.nav-links>a {
+  
     padding: 1em;
 }
 
