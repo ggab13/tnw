@@ -1,7 +1,7 @@
 body {
     background-color: rgb(246, 245, 245);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: 50px;
+    font-size: 16px;
     box-sizing: border-box;
 }
 
@@ -12,6 +12,7 @@ nav {
     padding: 15px;
     background-color: #FFF;
 }
+
 
 .nav-links>li {
     
