@@ -18,7 +18,7 @@ nav {
     display: inline;
 
 }
-.nav-links > li > a {
+ul > a {
   
     padding: 0.2em;
 }
