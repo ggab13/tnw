@@ -18,9 +18,9 @@ nav {
     display: inline;
 
 }
-.nav-links>a {
+.nav-links > li > a {
   
-    padding: 1em;
+    padding: 0.2em;
 }
 
 #logo {
