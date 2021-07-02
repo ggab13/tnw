@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+}
+a {
+    text-decoration: none;
+}
+body{
+    background-color: rgb(231, 231, 231);
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 5%;
+    background-color: white;
+}
+.nav-links {
+    list-style: none;
+}
+.nav-links li {
+    display: inline-block;
+    padding: 0 20px;
+}
+.nav-links li a {
+    transition: all 0.3s ease 0s;
+}
