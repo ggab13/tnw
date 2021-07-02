@@ -15,6 +15,7 @@ nav {
 
 .nav-links>li {
     display: inline;
+    padding: 1em;
 }
 
 #logo {
